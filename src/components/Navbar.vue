@@ -25,7 +25,7 @@
       <h4>AAE IdeaPro</h4>
     </div>
 
-    <v-spacer></v-spacer>
+    <v-spacer/> 
 
     <v-divider vertical class=""></v-divider>
     <v-btn icon class="mx-1">
@@ -41,7 +41,9 @@
         <v-icon>mdi-cart-outline</v-icon>
       </v-badge>
     </v-btn>
+
   </v-app-bar>
+  
 </template>
 
 <script>
