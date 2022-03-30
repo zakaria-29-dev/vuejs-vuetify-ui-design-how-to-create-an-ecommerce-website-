@@ -12,7 +12,7 @@
         <v-col cols="12" sm="12">
           <h4 class="text-center">MEN'S LIFESTYLE SHOES</h4>
         </v-col>
-        <v-col cols="12" sm="12">
+        <v-col cols="12" sm="4">
           <v-breadcrumbs :items="items" class="justify-center mt-n7" dark>
             <template v-slot:divider>
               <v-icon color="#7C92FE">mdi-chevron-right</v-icon>
